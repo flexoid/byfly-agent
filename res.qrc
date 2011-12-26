@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/background.png</file>
+        <file>lang_ru.qm</file>
+        <file>lang_by.qm</file>
+        <file>images/loadbar.gif</file>
+    </qresource>
+</RCC>
